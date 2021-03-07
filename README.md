@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title> Desafio em Node.js junto ao TypeScript, incluindo o uso de banco de dados com o TypeORM</title>
+  Desafio em Node.js junto ao TypeScript, incluindo o uso de banco de dados com o TypeORM
 </head>
 
 <body>
