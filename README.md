@@ -11,16 +11,16 @@
   <h2> #Execute o projeto</h2>
 
 
-  <h3># Clone este repositório</h3>
+  <h3>1. Clone este repositório</h3>
   <p>git clone: https://github.com/lsnascimentoDev/desafio-typeorm-nodejs.git</p>
 
-  <h3># Acesse a pasta do projeto no seu terminal/cmd</h3>
+  <h3>2. Acesse a pasta do projeto no seu terminal/cmd</h3>
   <p>cd /desafio-typeorm-nodejs/desafio-typerm-nodejs</p>
 
-  <h3># Instale as dependências</h3>
+  <h3>3. Instale as dependências</h3>
   <p>yarn install</p>
 
-  <h3># Execute a aplicação</h3>
+  <h3>4. Execute a aplicação</h3>
   <p>yarn dev:server</p>
 
 </body>
