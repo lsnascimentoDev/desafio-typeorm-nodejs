@@ -22,6 +22,34 @@
 
   <h3>4. Execute a aplicação</h3>
   <p>yarn dev:server</p>
+  
+  
+  <h2>Desafio</h2>
+
+<p>é uma aplicação que permite a criação de clientes, produtos e pedidos, onde o cliente pode gerar novos pedidos de
+  compra de certos produtos, como um pequeno e-commerce.</p>
+
+<h2>Funcionalidades</h2>
+
+<p>1. Permite que um cliente seja criado, e retorne um json com o registro.
+  2. No cadastro do cliente, validação e retorno de erro, caso o e-mail já esteja cadastrado no banco de dados.
+  3. Permite que um produto seja criado, e retorne um json com o registro.
+  4. No cadastro de produto, validação e retorno de erro, caso o nome do produto já esteja cadastrado no banco de dados.
+  5. Permite que um pedido seja criado, e retorne um json com todos os dados do pedido.
+  6. Validação na criação de um novo pedido com um cliente que não existe no banco de dados, retornando um erro.
+  7. Validação na criação de um novo pedido com produtos que não existem no banco de dados, retornando um erro caso um
+  ou mais dos produtos enviados não exista no banco de dados.
+  8. Validação na criação de um novo pedido com produtos que não possuem quantidade disponível, retornando um erro caso
+  um ou mais dos produtos enviados não possua a quantidade necessária.
+  9. Quando um novo pedido for criado, é alterada a quantidade total dos produtos baseado na quantidade pedida.
+  10. Ao cadastrar um novo pedido, o pedido é retornado via json, contendo todas as informações do pedido com os
+  relacionamentos.</p>
+
+
+<h2>Tecnologias</h2>
+
+<p>Express junto ao Node.js e TypeScript, incluindo o uso de banco de dados com o TypeORM.</p>
+
 
 </body>
 
