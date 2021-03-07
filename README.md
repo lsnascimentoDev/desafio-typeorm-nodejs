@@ -26,20 +26,20 @@
   </br> 
   
   
-  <h2>Desafio</h2>
+  <h2>#Desafio</h2>
 
 <p>Aplicação que permite a criação de clientes, produtos e pedidos, onde o cliente pode gerar novos pedidos de
   compra de certos produtos, como um pequeno e-commerce.</p>
   
  </br> 
   
-  <h2>Tecnologias</h2>
+  <h2>#Tecnologias</h2>
 
 <p>Express junto ao Node.js e TypeScript, incluindo o uso de banco de dados com o TypeORM.</p>
 
 </br> 
 
-<h2>Funcionalidades</h2>
+<h2>#Funcionalidades</h2>
 
 <p>1. Permite que um cliente seja criado, e retorne um json com o registro.</p>
 <p> 2. No cadastro do cliente, validação e retorno de erro, caso o e-mail já esteja cadastrado no banco de dados.
