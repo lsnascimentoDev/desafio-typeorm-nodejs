@@ -1,7 +1,7 @@
 # desafio-typeorm-nodejs
 Desafio em Node.js junto ao TypeScript, incluindo o uso de banco de dados com o TypeORM
 
-<h1>Executando</h1>
+<h2>Executando</h2>
 
 # Clone este repositório
 $ git clone 
