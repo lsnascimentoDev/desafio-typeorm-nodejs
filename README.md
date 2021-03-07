@@ -8,7 +8,7 @@
 <body>
 
 
-  <h2> #Execute o projeto</h2>
+  #Execute o projeto
 
 
   <h3>1. Clone este repositório</h3>
